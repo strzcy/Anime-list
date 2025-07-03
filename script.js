@@ -7,7 +7,7 @@ const categories = {
     {
       title: "Elemental",
       overview: "Fire meets Water.",
-      poster_path: "https://i5.walmartimages.com/asr/38c5952d-b75c-42e5-9486-6bae68fe727c_1.24b96bbc17818b921bee32b51270053e.jpeg",
+      poster_path: "",
       vote_average: 6.8
     },
     {
@@ -29,16 +29,64 @@ const categories = {
     {
       title: "The Shawshank Redemption",
       overview: "Hope can set you free.",
-      poster_path: "https://i5.walmartimages.com/asr/38c5952d-b75c-42e5-9486-6bae68fe727c_1.24b96bbc17818b921bee32b51270053e.jpeg",
-      vote_average: 9.3
+      poster_path: '/source/talentles-nana.jpg',
+      vote_average: 9.8
+    },
+    {
+      title: "The Shawshank Redemption",
+      overview: "Hope can set you free.",
+      poster_path: '/source/shikimori.jpg',
+      vote_average: 9.8
+    },
+    {
+      title: "The Shawshank Redemption",
+      overview: "Hope can set you free.",
+      poster_path: '/source/pasir.jpg',
+      vote_average: 9.7
+    },
+    {
+      title: "The Shawshank Redemption",
+      overview: "Hope can set you free.",
+      poster_path: '/source/apotek.jpg',
+      vote_average: 9.7
+    },
+    {
+      title: "The Shawshank Redemption",
+      overview: "Hope can set you free.",
+      poster_path: '/source/selection.jpg',
+      vote_average: 9.7
     }
   ],
   trending: [
     {
       title: "Deadpool & Wolverine",
       overview: "Unexpected team-up.",
-      poster_path: "https://i5.walmartimages.com/asr/38c5952d-b75c-42e5-9486-6bae68fe727c_1.24b96bbc17818b921bee32b51270053e.jpeg",
-      vote_average: 8.4
+      poster_path: "/source/demon.jpg",
+      vote_average: '#1'
+    },
+    {
+      title: "Deadpool & Wolverine",
+      overview: "Unexpected team-up.",
+      poster_path: "/source/cels.jpg",
+      vote_average: '#2'
+    },
+    {
+      title: "Deadpool & Wolverine",
+      overview: "Unexpected team-up.",
+      poster_path: "/source/Spirited away.jpg",
+      vote_average: '#3'
+    },
+    {
+      title: "Deadpool & Wolverine",
+      overview: "Unexpected team-up.",
+      poster_path: "/source/anne",
+      vote_average: '#4'
+    },
+    {
+      title: "Deadpool & Wolverine",
+      overview: "Unexpected team-up.",
+      poster_path: "/source/haikyu.jpg",
+      vote_average: '#5'
     }
   ]
 };
