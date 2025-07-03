@@ -73,7 +73,7 @@ function showHome() {
   main.innerHTML = `
     <div class="home-text">
       <h2>Welcome to Movie Web App 🎬</h2>
-      <p>This website lets you explore your favorite movies by categories such as Now Playing, Popular, Top Rated, and Trending. Use the search box to find a movie you love!</p>
+      <p>Lorem ipsum dolororem ipsum dolor sit amet consectetur adipisicing elit. In accusamus mollitia, recusandae nobis quos amet qui consectetur iure natus velit alias maxime a dicta eveniet enim at magni voluptatum. Ab. sit, amet consectetur adipisicing elit. Nostrum nisi magnam quia. Id at quo et molestiae possimus quaerat voluptates, dolorem exercitationem perferendis, repudiandae architecto fugiat reprehenderit necessitatibus nesciunt repellendus!</p>
     </div>
   `;
 }
