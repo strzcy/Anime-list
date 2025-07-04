@@ -49,14 +49,14 @@ const categories = {
     },
     {
       title: "Rascal Does Not Dream of Bunny Girl",
-      overview: "emaja bernama Mai Sakurajima. Ia berpakaian seperti gadis kelinci dan berkeliling di dalam perpustakaan tanpa disadari oleh siapa pun di sana. Mai merasa heran karena Sakuta hanya satu-satunya orang yang dapat melihatnya—sementara orang lain tidak.",
+      overview: "Mai Sakurajima berpakaian seperti gadis kelinci dan berkeliling di dalam perpustakaan tanpa disadari oleh siapa pun di sana. Mai merasa heran karena Sakuta hanya satu-satunya orang yang dapat melihatnya—sementara orang lain tidak.",
       poster_path: "/source/bunny.jpg",
       vote_average: 6.8
     },
     {
-      title: "rent",
+      title: "Bocchi The Rock",
       overview: "Fire meets Water.",
-      poster_path: "/source/rent.jpg",
+      poster_path: "/source/bochi.jpg",
       vote_average: 6.8
     },
     {
