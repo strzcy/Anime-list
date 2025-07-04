@@ -201,8 +201,14 @@ footer a {
   nav {
     flex-direction: column;
     padding: 10px 15px;
+    gap: 0px;
   }
-
+  nav span {
+    display: none;
+  }
+  nav .logo p{
+    margin-left: 25px;
+  }
   .home-text{
     padding: 30px;
   }
@@ -210,6 +216,7 @@ footer a {
     flex-direction: column;
     align-items: center;
     font-size: 12px;
+    margin-right: 20px;
   }
   nav li a #hm {
     display: none;
@@ -234,8 +241,14 @@ footer a {
     width: 100%;
     max-width: 320px;
   }
-
+  footer {
+    padding: 0px;
+    
+  }
   .movie img {
     height: 400px;
+  }
+  footer span {
+    display: none;
   }
 }
