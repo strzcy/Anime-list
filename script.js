@@ -183,8 +183,10 @@ function getClassByRate(vote) {
 function showHome() {
   main.innerHTML = `
     <div class="home-text">
-      <h2>Welcome to Movie Web App 🎬</h2>
-      <p>Lorem ipsum dolororem ipsum dolor sit amet consectetur adipisicing elit. In accusamus mollitia, recusandae nobis quos amet qui consectetur iure natus velit alias maxime a dicta eveniet enim at magni voluptatum. Ab. sit, amet consectetur adipisicing elit. Nostrum nisi magnam quia. Id at quo et molestiae possimus quaerat voluptates, dolorem exercitationem perferendis, repudiandae architecto fugiat reprehenderit necessitatibus nesciunt repellendus!</p>
+      <h2>Yōkoso! 🌸</h2>
+      <p>Selamat dateng di website kecilku, tempat aku menyimpan semua anime yang sudah kutonton (Watched), rekomendasi pribadi (Recommended), dan anime yang masih ada di dalam Watchlist, menunggu waktu yang pas untuk ditonton. Kadang-kadang, ada juga anime yang menurutku chotto bimyou — sedikit kurang menarik, tapi siapa tahu, selera kita berbeda.
+      <br>
+      List ini bukan sekadar daftar, tapi jejak perjalanan nonton anime yang terus bertambah. Simple for now, but I’ll keep it growing, little by little. <br> Tanoshinde ne! 🎥✨</p>
     </div>
   `;
 }
