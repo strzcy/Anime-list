@@ -51,25 +51,25 @@ const categories = {
       title: "Rascal Does Not Dream of Bunny Girl",
       overview: "Mai Sakurajima berpakaian seperti gadis kelinci dan berkeliling di dalam perpustakaan tanpa disadari oleh siapa pun di sana. Mai merasa heran karena Sakuta hanya satu-satunya orang yang dapat melihatnya—sementara orang lain tidak.",
       poster_path: "/source/bunny.jpg",
-      vote_average: 6.8
+      vote_average: 8.8
     },
     {
       title: "Bocchi The Rock",
       overview: "Bocchi seorang gadis pemalu dan tertutup, masa smp dia terus mengasah kemampuan bermain gitarnya, ia mengunggah video dirinya yang bermain di internet sebagai Guitar Hero dan ingin tampil di festival sekolah",
       poster_path: "/source/bochi.jpg",
-      vote_average: 6.8
+      vote_average: 8.6
     },
     {
       title: "Dr. Stone",
       overview: "Menceritakan usaha para tokoh dari Dunia yang mencoba untuk membangun kembali peradaban di Zaman batu. Senku dan Taiju bercita-cita untuk menata ulang peradaban manusia agar mampu hidup kembali di Zaman Batu ini.",
       poster_path: "/source/drstun.jpg",
-      vote_average: 6.8
+      vote_average: 9.5
     },
     {
       title: "Your Name",
       overview: "Secara Misterius Taki berada di dalam tubuh Mitsuha dan sebaliknya, Mereka pun bingung dengan kejadian tersebut. Namun saat mereka kembali ke tubuh masing-masing, baik Taki maupun Mitsuha lupa mereka sebelumnya pernah bertukar tubuh.",
       poster_path: "/source/kimino.jpg",
-      vote_average: 6.8
+      vote_average: 8.5
     },
   ],
 
@@ -122,32 +122,32 @@ const categories = {
   // watchlist
   trending: [
     {
-      title: "Deadpool & Wolverine",
-      overview: "Unexpected team-up.",
+      title: "Demon Slayer: Kimetsu no Yaiba",
+      overview: "Saya pengen nonton ini, karna banyak yang nonton dan katanya bagus, selain itu kakak saya juga suka sama anime ini, jadi saya kepo",
       poster_path: "/source/demon.jpg",
       vote_average: '#1'
     },
     {
-      title: "Deadpool & Wolverine",
-      overview: "Unexpected team-up.",
+      title: "Cell's at Work",
+      overview: "Saya pengen nonton ini katanya mengedukasi, tapi baru nonton 3 episode udah bikin kepala aku pusing, kayanya otak aku kekecilan",
       poster_path: "/source/cels.jpg",
       vote_average: '#2'
     },
     {
-      title: "Deadpool & Wolverine",
-      overview: "Unexpected team-up.",
+      title: "Sprited Away",
+      overview: "Saya mau nonton ini karna kepo, soalnya orang orang pada bahas ghibli ghibli ghibli...",
       poster_path: "/source/Spirited away.jpg",
       vote_average: '#3'
     },
     {
-      title: "Deadpool & Wolverine",
-      overview: "Unexpected team-up.",
+      title: "Anne Shirley",
+      overview: "Saya mau nonton ini karna artstylenya aneh, jd pngen ngerasain sensasi beda",
       poster_path: "/source/anne",
       vote_average: '#4'
     },
     {
-      title: "Deadpool & Wolverine",
-      overview: "Unexpected team-up.",
+      title: "Haikyuu!",
+      overview: "Saya pengen nonton anime ini soalnya dulu ramai, dan banyak yang nonton, teman saya bilang abis nonton ini jadi paham mapel pjok :>",
       poster_path: "/source/haikyu.jpg",
       vote_average: '#5'
     }
