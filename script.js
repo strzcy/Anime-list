@@ -55,19 +55,19 @@ const categories = {
     },
     {
       title: "Bocchi The Rock",
-      overview: "Fire meets Water.",
+      overview: "Bocchi seorang gadis pemalu dan tertutup, masa smp dia terus mengasah kemampuan bermain gitarnya, ia mengunggah video dirinya yang bermain di internet sebagai Guitar Hero dan ingin tampil di festival sekolah",
       poster_path: "/source/bochi.jpg",
       vote_average: 6.8
     },
     {
-      title: "drstun",
-      overview: "Fire meets Water.",
+      title: "Dr. Stone",
+      overview: "Menceritakan usaha para tokoh dari Dunia yang mencoba untuk membangun kembali peradaban di Zaman batu. Senku dan Taiju bercita-cita untuk menata ulang peradaban manusia agar mampu hidup kembali di Zaman Batu ini.",
       poster_path: "/source/drstun.jpg",
       vote_average: 6.8
     },
     {
-      title: "kiminonawa",
-      overview: "Fire meets Water.",
+      title: "Your Name",
+      overview: "Secara Misterius Taki berada di dalam tubuh Mitsuha dan sebaliknya, Mereka pun bingung dengan kejadian tersebut. Namun saat mereka kembali ke tubuh masing-masing, baik Taki maupun Mitsuha lupa mereka sebelumnya pernah bertukar tubuh.",
       poster_path: "/source/kimino.jpg",
       vote_average: 6.8
     },
@@ -82,39 +82,39 @@ const categories = {
   "top-rated": [
     {
       title: "The Shawshank Redemption",
-      overview: "Hope can set you free.",
-      poster_path: '/source/talentles-nana.jpg',
-      vote_average: 9.8
+      overview: "Menceritakan kehidupan para idola cantik yang berjumlahkan 9 orang, mereka menghadapi banyak cobaaan dalam karir idolanya, ini saya rate bagus, karna ceritanya mirip fromis_9 idol kpop favorit saya!",
+      poster_path: '/source/selection.jpg',
+      vote_average: 10
     },
     {
-      title: "The Shawshank Redemption",
-      overview: "Hope can set you free.",
+      title: "Parallel World Pharmacy",
+      overview: "ilmuan yang kehilangan adiknya. Adik Kanji meninggal akibat pengobatan yang tersedia saat itu tidak memadai. Sejak saat itu, Kanji mengabdikan dirinya kepada dunia kesehatan agar kasus yang menimpa adiknya tidak terjadi lagi.",
+      poster_path: '/source/apotek.jpg',
+      vote_average: 9.9
+    },
+    {
+      title: " Shikimori's Not Just a Cutie",
+      overview: "Izumi adalah karakter yang paling sial. Ia selalu pulang ke rumah dalam keadaan cedera. Izumi lantas berusaha untuk membuang sial yang telah lama menimpa dirinya itu. Salah satu caranya adalah berpacaran.",
       poster_path: '/source/shikimori.jpg',
       vote_average: 9.8
     },
     {
-      title: "The Shawshank Redemption",
-      overview: "Hope can set you free.",
-      poster_path: '/source/apotek.jpg',
+      title: "Talentless Nana",
+      overview: "Suatu hari, seorang siswa baru bernama Nana Hiiragi. Pada kenyataannya, Nana adalah seorang pembunuh milik pemerintah yang tidak memiliki Bakat dan telah dikirim untuk membunuh para siswa, yang dianggap pemerintah sebagai Musuh Kemanusiaan yang sebenarnya.",
+      poster_path: '/source/talentles-nana.jpg',
       vote_average: 9.7
     },
     {
-      title: "The Shawshank Redemption",
-      overview: "Hope can set you free.",
+      title: "16bit Sensation: Another Layer",
+      overview: "Konoha Akisato adalah seorang ilustrator yang menyukai gadis-gadis cantik dan game bishoujo atau game yang banyak gadisnya. cita-citanya tidak berjalan seperti yang dia harapkan",
       poster_path: '/source/16bit.jpg',
-      vote_average: 9.7
+      vote_average: 9.6
     },
     {
-      title: "The Shawshank Redemption",
-      overview: "Hope can set you free.",
+      title: "The Aquatope on White Sand",
+      overview: "Menceritakan tentang kisah dua gadis. Kukuru Misakino mengejar mimpinya dengan bekerja di akuarium dan Fūka Miyazawa, seorang idola dari Tokyo, yang telah melepaskan posisinya dan melakukan perjalanan ke Okinawa untuk mencari sesuatu yang baru.",
       poster_path: '/source/pasir.jpg',
-      vote_average: 9.7
-    },
-    {
-      title: "The Shawshank Redemption",
-      overview: "Hope can set you free.",
-      poster_path: '/source/selection.jpg',
-      vote_average: 9.7
+      vote_average: 9.6
     }
   ],
 
