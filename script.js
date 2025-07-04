@@ -6,10 +6,10 @@ const categories = {
   // Watched
   "now-playing": [
     {
-      title: "Suka Suka",
-      overview: "500 tahun manusia dikuasai oleh “Beast”. Ras yang masih bertahan hidup membuat rumah mereka mengapung dan menjadi pulau-pulau yang mengapung di langit, agar terhindar dari jangkauan Beast.",
-      poster_path: "/source/sukasuka.jpg",
-      vote_average: 7.9
+      title: "Your Name",
+      overview: "Secara Misterius Taki berada di dalam tubuh Mitsuha dan sebaliknya, Mereka pun bingung dengan kejadian tersebut. Namun saat mereka kembali ke tubuh masing-masing, baik Taki maupun Mitsuha lupa mereka sebelumnya pernah bertukar tubuh.",
+      poster_path: "/source/kimino.jpg",
+      vote_average: 8.5
     },
     {
       title: "Kuma Kuma Kuma Bear",
@@ -60,17 +60,17 @@ const categories = {
       vote_average: 8.6
     },
     {
+      title: "Suka Suka",
+      overview: "500 tahun manusia dikuasai oleh “Beast”. Ras yang masih bertahan hidup membuat rumah mereka mengapung dan menjadi pulau-pulau yang mengapung di langit, agar terhindar dari jangkauan Beast.",
+      poster_path: "/source/sukasuka.jpg",
+      vote_average: 7.9
+    },
+    {
       title: "Dr. Stone",
       overview: "Menceritakan usaha para tokoh dari Dunia yang mencoba untuk membangun kembali peradaban di Zaman batu. Senku dan Taiju bercita-cita untuk menata ulang peradaban manusia agar mampu hidup kembali di Zaman Batu ini.",
       poster_path: "/source/drstun.jpg",
       vote_average: 9.5
-    },
-    {
-      title: "Your Name",
-      overview: "Secara Misterius Taki berada di dalam tubuh Mitsuha dan sebaliknya, Mereka pun bingung dengan kejadian tersebut. Namun saat mereka kembali ke tubuh masing-masing, baik Taki maupun Mitsuha lupa mereka sebelumnya pernah bertukar tubuh.",
-      poster_path: "/source/kimino.jpg",
-      vote_average: 8.5
-    },
+    }    
   ],
 
 
@@ -175,18 +175,19 @@ function showMovies(movies) {
 }
 
 function getClassByRate(vote) {
-  if (vote >= 8) return 'green';
-  else if (vote >= 5) return 'orange';
-  else return 'red';
+  if (vote >= 8.5) return 'green';
+  else if (vote >= 6) return 'orange';
+  else return 'brown';
 }
 
 function showHome() {
   main.innerHTML = `
     <div class="home-text">
-      <h2>Yōkoso! 🌸</h2>
+      <h2>Yōkoso!</h2>
       <p>Selamat dateng di website kecilku, tempat aku menyimpan semua anime yang sudah kutonton (Watched), rekomendasi pribadi (Recommended), dan anime yang masih ada di dalam Watchlist, menunggu waktu yang pas untuk ditonton. Kadang-kadang, ada juga anime yang menurutku chotto bimyou — sedikit kurang menarik, tapi siapa tahu, selera kita berbeda.
       <br>
-      List ini bukan sekadar daftar, tapi jejak perjalanan nonton anime yang terus bertambah. Simple for now, but I’ll keep it growing, little by little. <br> Tanoshinde ne! 🎥✨</p>
+      List ini bukan sekadar daftar, tapi jejak perjalanan nonton animeku yang terus bertambah. Simple for now, but I’ll keep it growing, little by little.</p>
+      <h4>Tanoshinde ne!</h4>
     </div>
   `;
 }

@@ -102,7 +102,7 @@ main {
 
 .home-text{
   text-align: center;
-  
+  padding: 35px;
 }
 
 
@@ -188,6 +188,12 @@ footer {
   bottom: 0;
   width: 100%;
   position: fixed;
+}
+
+footer a {
+  color: #815845;
+  padding: 0;
+  margin: 0;
 }
 
 
